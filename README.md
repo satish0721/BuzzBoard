@@ -5,8 +5,6 @@ Steps to run code
 3. Go to file path
 4. cd backend
 5. npm start
-6. Create .env file add create DB link
-   e.g : MONGODB_URL= "mongodb+srv://root:root@cluster0.bg7ic.mongodb.net/BuzzBoard?retryWrites=true&w=majority"
 
 # API list
 
