@@ -1,4 +1,3 @@
-# BuzzBoard
 Steps to run code
 
 1. main file is server.js
